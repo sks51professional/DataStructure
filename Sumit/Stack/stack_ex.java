@@ -1,6 +1,6 @@
 // Stack implementation in Java
 // this is a new program
-
+//Thankyou for creating github bhai
 class Stack {
 
   // store elements of stack
